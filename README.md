@@ -22,12 +22,13 @@ For my personal or original web development projects, please see my other reposi
 ## Projects Look
 
 - Cafe Menu
-<img width="1600" height="711" alt="Screenshot (1544)" src="https://github.com/user-attachments/assets/7d71b34f-48b2-4b0d-bc86-e6c7b10f02b4" />
+<img width="600" height="400" alt="Screenshot (1544)" src="https://github.com/user-attachments/assets/7d71b34f-48b2-4b0d-bc86-e6c7b10f02b4" />
 
--Colored Markers
-<img width="815" height="563" alt="Screenshot (1545)" src="https://github.com/user-attachments/assets/3e181b5b-7ae6-4ce4-8f10-5622dc8a558d" />
+
+- Colored Markers
+<img width="600" height="400" alt="Screenshot (1545)" src="https://github.com/user-attachments/assets/3e181b5b-7ae6-4ce4-8f10-5622dc8a558d" />
 
 
 - Registration form
-  <img width="1600" height="697" alt="Screenshot (1546)" src="https://github.com/user-attachments/assets/28e95b3c-1ec5-405f-b171-bd7f0afbf502" />
-<img width="1600" height="702" alt="Screenshot (1547)" src="https://github.com/user-attachments/assets/1066e359-7a05-41d7-acc5-ab4b02a347ff" />
+<img width="600" height="400" alt="Screenshot (1546)" src="https://github.com/user-attachments/assets/28e95b3c-1ec5-405f-b171-bd7f0afbf502" />
+<img width="600" height="400" alt="Screenshot (1547)" src="https://github.com/user-attachments/assets/1066e359-7a05-41d7-acc5-ab4b02a347ff" />
