@@ -11,6 +11,8 @@ These projects are based on FreeCodeCamp's curriculum instructions. The aim is t
 - Cafe Menu
 - Colored Markers
 - Registration Form
+- Rothko Painting
+- Photo Gallery
 - (More will be added as I continue learning)
 
 ## Disclaimer
@@ -32,3 +34,9 @@ For my personal or original web development projects, please see my other reposi
 - Registration form
 <img width="600" height="400" alt="Screenshot (1546)" src="https://github.com/user-attachments/assets/28e95b3c-1ec5-405f-b171-bd7f0afbf502" />
 <img width="600" height="400" alt="Screenshot (1547)" src="https://github.com/user-attachments/assets/1066e359-7a05-41d7-acc5-ab4b02a347ff" />
+
+- RothKo Painting
+<img width="400" height="600" alt="Screenshot (1548)" src="https://github.com/user-attachments/assets/44cc9e8d-0522-44a5-988b-43c553fe7f4e" />
+
+- Photo Gallery
+<img width="700" height="471" alt="Screenshot (1549)" src="https://github.com/user-attachments/assets/cfe974b1-3387-4072-9fb3-267ab54721c7" />
