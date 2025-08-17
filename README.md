@@ -13,6 +13,7 @@ These projects are based on FreeCodeCamp's curriculum instructions. The aim is t
 - Registration Form
 - Rothko Painting
 - Photo Gallery
+- Nutrition label
 - (More will be added as I continue learning)
 
 ## Disclaimer
@@ -40,3 +41,6 @@ For my personal or original web development projects, please see my other reposi
 
 - Photo Gallery
 <img width="700" height="471" alt="Screenshot (1549)" src="https://github.com/user-attachments/assets/cfe974b1-3387-4072-9fb3-267ab54721c7" />
+
+- Nutrition label
+<img width="600" height="894" alt="Screenshot (1554)" src="https://github.com/user-attachments/assets/1cd26396-98c3-4ecc-86b0-dbcc4ee8c1f9" />
